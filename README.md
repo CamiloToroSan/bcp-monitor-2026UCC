@@ -48,7 +48,7 @@ el sistema operativo mantiene por cada proceso activo. Contiene:
 
 ## Instalación
 ```bash
-git clone https://github.com/TU-USUARIO/bcp-monitor.git
+git https://github.com/CamiloToroSan/bcp-monitor-2026UCC.git
 cd bcp-monitor
 ```
 
